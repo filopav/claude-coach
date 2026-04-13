@@ -1,6 +1,6 @@
 # Athlete Profile
 
-_Last updated: 2026-03-22 (auto-filled from Garmin)_
+_Last updated: 2026-04-13 (auto-filled from Garmin)_
 
 ---
 
@@ -21,16 +21,16 @@ _Last updated: 2026-03-22 (auto-filled from Garmin)_
 
 ## Current Fitness Baseline
 
-- **VO2max (Garmin, running):** 55.0 (precise: 54.6)
+- **VO2max (Garmin, running):** 54.0 (precise: 53.8) — down from 55.0/54.6 in March due to illness detraining
 - **VO2max (Garmin, cycling):** 54.0
-- **Resting HR:** 47 bpm (7-day avg: 49 bpm)
+- **Resting HR:** 47 bpm (baseline); currently 50 bpm as of Apr 12 — still recovering from illness (was 55 on Apr 11)
 - **Max HR:** ~184 bpm (peak seen in soccer); running-specific max ~173 bpm
 - **Lactate threshold HR:** 171 bpm (auto-detected by Garmin)
 - **Threshold pace (running):** ~4:30–4:45/km (based on W11 plan + LT data)
 - **Easy pace range:** ~5:40–6:30/km (HR 120–140)
-- **Weekly training hours (recent avg):** ~5–7h (running + strength + cycling)
-- **Weekly running volume (recent avg):** ~35–40km
-- **FTP (cycling):** Garmin auto-detect 431W (5.1 W/kg) — almost certainly incorrect. Real-world: couldn't sustain >220W past 80km on Mar 22. Estimated actual FTP ~220–260W. Needs proper FTP test before structured bike intervals.
+- **Weekly training hours (recent avg):** ~2–3h (reduced — post-illness W14–W15)
+- **Weekly running volume (recent avg):** ~6–13km (reduced — post-illness)
+- **FTP (cycling):** Garmin auto-detect 431W (5.1 W/kg) — almost certainly incorrect. Real-world: couldn't sustain >220W past 80km on Mar 22. Estimated actual FTP ~220–260W. FTP test planned for W17 once HRV normalizes.
 
 ## Race Predictions (Garmin, as of 2026-03-22)
 
@@ -40,6 +40,8 @@ _Last updated: 2026-03-22 (auto-filled from Garmin)_
 | 10K | 46:37 | 4:40/km |
 | Half Marathon | 1:45:18 | 5:00/km |
 | Marathon | 3:54:22 | 5:33/km |
+
+_Note: predictions likely slightly degraded from illness detraining — will update after W16–W17 rebuild._
 
 ## Heart Rate Zones (Running)
 
@@ -55,13 +57,13 @@ _Derived from LT HR = 171, est. max HR ~184_
 
 ---
 
-## Training Status (as of 2026-03-22)
+## Training Status (as of 2026-04-12)
 
-- **Garmin status:** PRODUCTIVE
-- **Acute load:** 672 | **Chronic load:** 440 | **ACWR:** 1.5 (HIGH — elevated injury risk)
-- **Training balance:** Aerobic low intensity dominant
-- **HRV:** 109ms last night, 104ms weekly avg — BALANCED (baseline range: 58–112ms)
-- **Body battery:** 98 peak / 21 low today — well-charged overnight, drained by today's 104km ride
+- **Garmin status:** MAINTAINING
+- **Acute load:** 186 | **Chronic load:** 219 | **ACWR:** 0.85 (OPTIMAL — but very low absolute load)
+- **Training balance:** Aerobic high shortage (not enough tempo/threshold work — illness-related)
+- **HRV:** 82ms last night, 63ms weekly avg — UNBALANCED (baseline balanced range: 69–135ms); trending up: 48 → 67 → 82 over last 3 days
+- **Training readiness (Apr 12):** 65/100, MODERATE — HRV factor moderate, sleep history moderate
 
 ---
 
@@ -94,7 +96,11 @@ _Derived from LT HR = 171, est. max HR ~184_
 
 _Claude maintains this section. Do not edit manually._
 
-- **2026-03-22:** Multi-sport athlete — running, cycling, strength, and soccer all feature regularly. ACWR is HIGH (1.5) as of today after a big 104km road cycling session; worth monitoring next week's load carefully.
+- **2026-03-22:** Multi-sport athlete — running, cycling, strength, and soccer all feature regularly.
 - **2026-03-22:** Easy runs in the 5:40–6:30/km range at HR 120–140 appear well-controlled. Fartlek/quality runs push HR to 150–173. Threshold pace ~4:30/km aligns with Garmin LT data.
 - **2026-03-22:** Strength training ~2x/week, typically 40–80min sessions. Soccer appears occasionally and produces the highest HR values (up to 184).
-- **2026-03-22:** W11 plan referenced a "race week" for W12 — unclear if a race occurred. Needs clarification from athlete.
+- **2026-04-13:** Bacterial tonsillitis hit end of W13 (Fri Mar 28). 5-day antibiotics course ran Mar 31–Apr 4. Full training gap W13 Thu – W14 Fri. Pattern matches prior illness history (frequently ill before Sep 2025). Monitor RHR/HRV carefully at any sign of future illness.
+- **2026-04-13:** Post-illness HR runs elevated for ~2 weeks. Apr 9 run at 5:55/km had avg HR 145 (typically 130–135 at that pace). Apr 11 run base laps at 5:46–6:20/km had avg HR 134–145 — better but still slightly hot. Expect full normalization by W16–W17.
+- **2026-04-13:** Athlete self-structures runs — Apr 11 session included 3 × ~300m strides at 4:14–4:22/km unprompted. Strides were controlled (HR 154–174 on efforts, max 176 was lag on recovery jog). Good instinct.
+- **2026-04-13:** Helpa terrain is significantly hilly — lap paces of 7:35–8:33/km with 32–44m elevation gain per km are normal there. Don't compare Helpa pace to Bratislava pace directly.
+- **2026-04-13:** Indoor cycling avg power reference points: 148W (easy/recovery, HR 117, Mar 27), 156W (easy return post-illness, HR 125, Apr 8). Both well below estimated real FTP ~220–260W.
